@@ -25,7 +25,7 @@ Each stock information contain a ticker value, the date the stock was issued, th
 First of all, I saved my previous work done in the First Module *the green_stocks.xlsx* that contain my previous Macros. After, I started following the guidelines provided in the Challenge.
 Then, I copy the script given in the file 'VBA_Challenge.vbs' to start adding the appropriate code where indicated.
 
- Below, the insruction and the appropirate code as wanted
+ Below, the insruction and the appropirate code as wanted:
  
  > Step 1a:
  
@@ -44,5 +44,16 @@ The tickerStartingPrices and tickerEndingPrices arrays should be a Single data t
 **Dim tickerStartingPrices(12) As Single**
   
 **Dim tickerEndingPrices(12) As Single**
+
+> Step 2a:
+
+> Create a for loop to initialize the tickerVolumes to zero. 
+
+**For i = 0 To 11
+        tickerVolumes(i) = 0
+        tickerStartingPrices(i) = 0
+        tickerEndingPrices(i) = 0
+    Next i**
+
 
 
