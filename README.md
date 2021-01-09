@@ -29,7 +29,7 @@ Then, I copy the script given in the file 'VBA_Challenge.vbs' to start adding th
  
  > Step 1b:
 
-Create three output arrays: tickerVolumes, tickerStartingPrices, and tickerEndingPrices.
+> Create three output arrays: tickerVolumes, tickerStartingPrices, and tickerEndingPrices.
 The tickerVolumes array should be a Long data type.
 The tickerStartingPrices and tickerEndingPrices arrays should be a Single data type.
 
