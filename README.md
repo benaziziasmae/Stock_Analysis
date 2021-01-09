@@ -120,7 +120,7 @@ Use the tickerIndex variable as the index.
  
   - First output of this code is a message box asking *what year would you like to run for the analysis on?* 
  
-![Run_time_pop_up_message](Resources/Pop_up_message wich_year_run.png)
+![Run_time_pop_up_message](/Resources/Pop_up_message.png)
 
  - We enter the years 2018 and 2017 respectively and we got the outputs below:
 
