@@ -49,11 +49,15 @@ The tickerStartingPrices and tickerEndingPrices arrays should be a Single data t
 
 > Create a for loop to initialize the tickerVolumes to zero. 
 
-**For i = 0 To 11
-        tickerVolumes(i) = 0
-        tickerStartingPrices(i) = 0
-        tickerEndingPrices(i) = 0
-    Next i**
+**For i = 0 To 11**
+
+**tickerVolumes(i) = 0**\
+
+**tickerStartingPrices(i) = 0**
+
+**tickerEndingPrices(i) = 0**
+
+**Next i**
 
 
 
