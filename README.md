@@ -51,7 +51,7 @@ The tickerStartingPrices and tickerEndingPrices arrays should be a Single data t
 
 **For i = 0 To 11**
 
-**tickerVolumes(i) = 0**\
+**tickerVolumes(i) = 0**
 
 **tickerStartingPrices(i) = 0**
 
@@ -59,5 +59,27 @@ The tickerStartingPrices and tickerEndingPrices arrays should be a Single data t
 
 **Next i**
 
+> Step 2b:
 
+> Create a for loop that will loop over all the rows in the spreadsheet.
+
+**For i = 2 To RowCount**
+
+> Step 3a:
+
+> Inside the for loop in Step 2b, write a script that increases the current tickerVolumes (stock ticker volume) variable and adds the ticker volume for the current stock ticker.
+Use the tickerIndex variable as the index.
+
+**tickerVolumes(tickerIndex) = tickerVolumes(tickerIndex) + Cells(i, 8).Value**
+
+> Step 3b:
+
+> Write an if-then statement to check if the current row is the first row with the selected tickerIndex. If it is, then assign the current closing price to the tickerStartingPrices variable.
+
+**If Cells(i, 1).Value = tickers(tickerIndex) And Cells(i - 1, 1).Value <> tickers(tickerIndex) Then
+            tickerStartingPrices(tickerIndex) = Cells(i, 6).Value**
+            
+  **End If**
+
+    
 
