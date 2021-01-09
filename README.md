@@ -18,7 +18,7 @@ Each stock information contain a ticker value, the date the stock was issued, th
 
 ## Results
 
-###Comparaison between the original script and the refactored script
+### Comparaison between the original script and the refactored script
 
 1. Process
 
