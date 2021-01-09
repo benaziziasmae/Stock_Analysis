@@ -39,8 +39,10 @@ Then, I copy the script given in the file 'VBA_Challenge.vbs' to start adding th
 The tickerVolumes array should be a Long data type.
 The tickerStartingPrices and tickerEndingPrices arrays should be a Single data type.
 
-**Dim tickerVolumes(12) As Long
-  Dim tickerStartingPrices(12) As Single
-  Dim tickerEndingPrices(12) As Single**
+**Dim tickerVolumes(12) As Long**
+
+**Dim tickerStartingPrices(12) As Single**
+  
+**Dim tickerEndingPrices(12) As Single**
 
 
