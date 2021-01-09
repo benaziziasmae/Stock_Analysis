@@ -14,14 +14,25 @@ The purpose of this project is to edit a VBA code previously used (Module 2 Solu
 
 The Data presents stock information for 12 Different Stocks.
 "AY"
+
 "CSIQ"
+
 "DQ"
+
 "ENPH"
+
 "FSLR"
+
 "HASI"
+
 "JKS"
+
 "RUN"
+
 "SEDG"
+
 "SPWR"
+
 "TERP"
+
 "VSLR"
