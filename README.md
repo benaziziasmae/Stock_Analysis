@@ -13,26 +13,5 @@ The purpose of this project is to edit a VBA code previously used (Module 2 Solu
 ### The Data
 
 The Data presents stock information for 12 Different Stocks.
-"AY"
 
-"CSIQ"
-
-"DQ"
-
-"ENPH"
-
-"FSLR"
-
-"HASI"
-
-"JKS"
-
-"RUN"
-
-"SEDG"
-
-"SPWR"
-
-"TERP"
-
-"VSLR"
+Each stock information contain a ticker value, the date the stock was issued, the opening, highest, lowest, closing and adjusted closing price as well as the volume of the stock. The goal is to collect the ticker, the total daily volume and the return on each stock for the years 2017, 2018.
