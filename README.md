@@ -143,11 +143,11 @@ Use the tickerIndex variable as the index.
 
 1. Pros
 
- - Refactoring helps make our code cleaner and more organized.
+ - Refactoring improves code quality .
  
- - Cleaner code include design and software improvement, debugging, and faster programming.
+ - Cleaner and more organized code that include design and software improvement, debugging, and faster programming.
  
- - Logical errors easily appear in well structure code that contains nested conditionals and loops.
+ - helps to find bugs, makes programs run faster, easier to understand the code, improves the design of software.
  
  - In our case, using Excel flow displays program logic in a more comprehensible, more concise and straightforward  manner.
  
