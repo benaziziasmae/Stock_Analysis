@@ -134,7 +134,7 @@ Use the tickerIndex variable as the index.
 
 
 
- - The results above match perfectly the outputs from the AllsStocksAnalysis. Running our fully 2017 and 2018 data stock analysis gave us an elapsed run time for each year.
+ - The results above match perfectly the outputs from the AllsStocksAnalysis given in this module. Running our fully 2017 and 2018 data stock analysis gave us an elapsed run time for each year.
 
 
 ## Summary
