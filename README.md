@@ -22,7 +22,7 @@ Each stock information contain a ticker value, the date the stock was issued, th
 
 1. Process
 
-First of all, I saved my previous work done in the First Module *the green_stocks.xlsx* [*the_green_stocks*](/VBA_Challenge.xlsm). that contain my previous Macros. After, I started following the guidelines provided in the Challenge.
+First of all, I saved my previous work done in the First Module [*the_green_stocks*](/VBA_Challenge.xlsm). that contain my previous Macros. After, I started following the guidelines provided in the Challenge.
 Then, I copy the script given in the file 'VBA_Challenge.vbs' to start adding the appropriate code where indicated.
 
  Below, the insruction and the appropirate code as wanted:
