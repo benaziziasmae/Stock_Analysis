@@ -81,5 +81,35 @@ Use the tickerIndex variable as the index.
             
   **End If**
 
-    
+> tep 3c:
 
+> Write an if-then statement to check if the current row is the last row with the selected tickerIndex. If it is, then assign the current closing price to the tickerEndingPrices variable.
+  
+**If Cells(i, 1).Value = tickers(tickerIndex) And Cells(i + 1, 1).Value <> tickers(tickerIndex) Then
+            tickerEndingPrices(tickerIndex) = Cells(i, 6).Value**
+        
+ **End If**
+ 
+> Step 3d:
+
+> Write a script that increases the tickerIndex if the next row’s ticker doesn’t match the previous row’s ticker.
+
+**If Cells(i, 1).Value = tickers(tickerIndex) And Cells(i + 1, 1).Value <> tickers(tickerIndex) Then
+                tickerIndex = tickerIndex + 1**
+                
+**End If**
+
+> Step 4:
+
+> Use a for loop to loop through your arrays (tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices) to output the “Ticker,” “Total Daily Volume,” and “Return” columns in your spreadsheet.
+
+ **For i = 0 To 11**
+        
+ **Worksheets("All Stocks Analysis").Activate**
+ 
+**Cells(4 + i, 1).Value = tickers(i)**
+
+**Cells(4 + i, 2).Value = tickerVolumes(i)**
+
+**Cells(4 + i, 3).Value = tickerEndingPrices(i) / tickerStartingPrices(i) - 1**
+        
