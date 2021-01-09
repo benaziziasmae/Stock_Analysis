@@ -118,16 +118,16 @@ Use the tickerIndex variable as the index.
  
  The excution of this code gave us the following outputs:
  
- First output of this code is a message box asking *what year would you like to run for the analysis on?* 
+  - First output of this code is a message box asking *what year would you like to run for the analysis on?* 
  
 ! image pop up message year 
 
-We enter the years 2018 and 2017 respectively and we got the outputs below:
+ - We enter the years 2018 and 2017 respectively and we got the outputs below:
 
 image 2017
 image 2018
 
-The results above match perfectly the outputs from the AllsStocksAnalysis and we were able to save some time by refactoring the old code.
+ - The results above match perfectly the outputs from the AllsStocksAnalysis and we were able to save some time by refactoring the old code.
 
 
 
