@@ -118,7 +118,7 @@ Use the tickerIndex variable as the index.
  
  The excution of this code gave us the following outputs:
  
-  - First output of this code is a message box asking *what year would you like to run for the analysis on?* 
+  - First output of this code is a message box asking *"what year would you like to run the analysis on"?* 
  
 ![Run_time_pop_up_message](/Resources/Pop_up_message.png)
 
