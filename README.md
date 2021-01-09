@@ -147,7 +147,7 @@ Image
  
  - Logical errors easily appear in well structure code that contains nested conditionals and loops.
  
- - In our case, using Excel flow displays program logic in a more comprehensible manner.
+ - In our case, using Excel flow displays program logic in a more comprehensible, more concise and straightforward  manner.
  
  - VBA interpretation (Excel) of code can reveal patterns that are not easy to see in the source.
  
@@ -160,6 +160,10 @@ Image
  - A complex unstructured code is usually best to split in several functions.
  
  - Refactoring process can affect the testing outcomes.
+ 
+3. How do these pros and cons apply to refactoring the original VBA script?
+
+The main benefit that occurred as a result of the refactoring was decreasing the macro run time. The original analysis took approximately one second to run, whereas our new analysis only took about a four of the time (approximately 0.25 seconds) to run.
 
 
 
