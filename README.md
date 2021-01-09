@@ -126,7 +126,7 @@ Use the tickerIndex variable as the index.
 
 ***Final VBA Analysis 2017***
 
-Image 
+![Run time pop-up message] ()
 
 ***Final VBA Analysis 2018***
 
