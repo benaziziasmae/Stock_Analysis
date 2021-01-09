@@ -122,7 +122,7 @@ Use the tickerIndex variable as the index.
  
 ![Run_time_pop_up_message](/Resources/Pop_up_message.png)
 
- - We enter the years 2018 and 2017 respectively and we got the outputs below:
+ - We enter the years 2017 and 2018 respectively and we got the outputs below:
 
 ***Final VBA Analysis 2017***
 
