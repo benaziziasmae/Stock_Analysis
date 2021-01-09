@@ -124,12 +124,42 @@ Use the tickerIndex variable as the index.
 
  - We enter the years 2018 and 2017 respectively and we got the outputs below:
 
-image 2017
-image 2018
+***Final VBA Analysis 2017***
 
- - The results above match perfectly the outputs from the AllsStocksAnalysis and we were able to save some time by refactoring the old code.
+Image 
+
+***Final VBA Analysis 2018***
+
+Image
+
+ - The results above match perfectly the outputs from the AllsStocksAnalysis. Running our fully 2017 and 2018 data stock analysis gave us an elapsed run time for each year.
 
 
+## Summary
+
+### Pros and Cons of Refactoring Code
+
+1. Pros
+
+ - Refactoring helps make our code cleaner and more organized.
+ 
+ - Cleaner code include design and software improvement, debugging, and faster programming.
+ 
+ - Logical errors easily appear in well structure code that contains nested conditionals and loops.
+ 
+ - In our case, using Excel flow displays program logic in a more comprehensible manner.
+ 
+ - VBA interpretation (Excel) of code can reveal patterns that are not easy to see in the source.
+ 
+2. Cons
+
+ - A long procedure may contain the same line of code in several locations, you can change the logic to eliminate the duplicate lines.
+ 
+ - A logical structure may be duplicated in two or more procedures (possibly via copy & paste coding). When detected, this logic is best moved to a new function and called from the other functions.
+ 
+ - A complex unstructured code is usually best to split in several functions.
+ 
+ - Refactoring process can affect the testing outcomes.
 
 
 
