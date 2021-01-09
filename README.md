@@ -133,6 +133,7 @@ Use the tickerIndex variable as the index.
 ![Final_VBA_Analysis_2018](/Resources/pop_up_message_run_time 2018.png)
 
 
+
  - The results above match perfectly the outputs from the AllsStocksAnalysis. Running our fully 2017 and 2018 data stock analysis gave us an elapsed run time for each year.
 
 
