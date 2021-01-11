@@ -138,7 +138,12 @@ Use the tickerIndex variable as the index.
 
 
  - The results above match perfectly the outputs from the AllsStocksAnalysis given in this module. Running our fully 2017 and 2018 data stock analysis gave us an elapsed run time for each year.
-
+ 
+ Our Finding:
+ 
+  - For 2017 output shows that most of the tickers had a positive return and were safe investments. The Particular one that Steve's parents were looking into was DQ which had the greatest return of all. Also 2017 was a great year for energy companies, 11 out the 12 companies studied had positive returns with 4 returning at least 100%. 
+  
+  - For the 2018 you can see that the returns were not nearly as high and the total volumes were down as well. That'd said, 2018 was a rough year for the energy sector, only 2 of the 12 companies studied managed to end the year with positive returns. Gains were consolidated to two high volume tickers ENPH and HASI while the rest of the market bled out. DQ was hit hardest by the sector correction losing roughly 63% of its valuation from the start of the year.
 
 ## Summary
 
