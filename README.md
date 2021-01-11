@@ -4,17 +4,20 @@
 
 ## Overview of the Project
 
+### The Data
+
+The Data presents stock information for 12 Different tickers over 3,000 rows of data.
+
+Each stock information contain a ticker value, the date the stock was issued, the opening, highest, lowest, closing and adjusted closing price as well as the volume of the stock. The goal is to collect the ticker, the total daily volume and the return on each stock for the years 2017, 2018.
+
+
 ### Purpose 
 
-The main goal of the Stocks Analysis is to collect certain Stocks data for the Year of 2017 and 2018 and determine whether the Stocks worth trading and investing in or not.
+The main goal of this project is to use VBA to help us analyze the stocks given in the data defined above. Our goal is to look at each stocks and see the total volume and return that are getting in each year 2017 and 2018. iso as to determine whether the Stocks worth trading and investing in or not. 
 
 The purpose of this project is to edit a VBA code previously used (Module 2 Solution code) by using the method of refactoring. Also, this process was already completed in a similar format, however, the aim of this method is to improve the efficiency of execution of the code, that is said, we just want to make the code run faster than before, by using fewer steps, using less memory, and improving the logic of the code to make it easier for future users to read.
 
-### The Data
 
-The Data presents stock information for 12 Different Stocks.
-
-Each stock information contain a ticker value, the date the stock was issued, the opening, highest, lowest, closing and adjusted closing price as well as the volume of the stock. The goal is to collect the ticker, the total daily volume and the return on each stock for the years 2017, 2018.
 
 ## Results
 
