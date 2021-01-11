@@ -174,7 +174,7 @@ Use the tickerIndex variable as the index.
 3. How do these pros and cons apply to refactoring the original VBA script?
 
 The main benefit that occurred as a result of the refactoring was decreasing the macro run time. The original analysis took approximately one second to run, whereas our new analysis only took about a four of the time (approximately 0.25 seconds) to run.
-This is a very positive outcome and means the code is much more efficient and most likely will run better and quicker and most likely will run better if we have more tickers.
+This is a very positive outcome and means the code is much more efficient, and most likely will run quicker and better if we have more tickers.
 
 
 
